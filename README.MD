@@ -24,7 +24,7 @@ AdsSolutions Technology Group is a premier provider of global advertising infras
 
 ## 🌐 Connect with a Technical Consultant
 
-* **Official Website**: [https://tony9999bs.github.io/ads-shop/](https://tony9999bs.github.io/ads-shop/)
+* **Official Website**: [https://tony9999bs.github.io/ads-infra/](https://tony9999bs.github.io/ads-infra/)
 * **Telegram**: [@AdsSolutions88](https://t.me/AdsSolutions88)
 * **Global HQ**: 245 Park Avenue, 39th Floor, New York, NY 10167, USA
 
